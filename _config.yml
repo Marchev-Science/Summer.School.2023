@@ -1,2 +1,5 @@
-theme: jekyll-theme-modernist
 markdown: kramdown
+theme: jekyll-theme-leap-day
+title: Summer School on modeling and complex systems 2023 
+description: FEBA
+show_downloads: "false"
