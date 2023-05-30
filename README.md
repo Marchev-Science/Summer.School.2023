@@ -1,4 +1,12 @@
-# Summer School on Modeling and Complex systems '2023
+---
+layout: post
+title: Summer School on Modeling and Complex Systems '2023
+date: 2023-05-31
+author: Angel Marchev, Jr.
+---
+
+
+# Summer School on Modeling and Complex Systems '2023
 
 
 <center>
