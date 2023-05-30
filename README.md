@@ -30,6 +30,7 @@ Partners
     <td>Lendivo<br><a href="https://lendivo.com/">https://lendivo.com/</a></td>
   </tr>
  </table>
+
   
 Associate Partners
 <table cellspacing="0" cellpadding="0" border="0">
