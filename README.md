@@ -46,7 +46,7 @@ Associate Partners
 -->
   
 ## Application  
-**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University ***.  
+**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
   
 **Location**: [Educational and sports rehabilitation base Semkovo](https://usob.tu-sofia.bg/index.php/semkovo), Rila Mountain, Bulgaria  
   
