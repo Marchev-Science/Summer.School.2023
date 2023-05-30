@@ -1,6 +1,5 @@
+# Summer School on Modeling and Complex systems '2023
 
----
-# Summer.School.2023
 
 <center>
 <!--<img src="img/snimka_2022.jpg" width="700">-->   
@@ -48,6 +47,7 @@ Associate Partners
 -->
   
 ## Application  
+ 
 **Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
   
 **Location**: [Educational and sports rehabilitation base Semkovo](https://usob.tu-sofia.bg/index.php/semkovo), Rila Mountain, Bulgaria  
