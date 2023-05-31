@@ -60,7 +60,7 @@ Associate Partners
 Only some applications would be approved, who will be notified by e-mail on June 26 and will recieve further instructions.    
 Participation in the Summer school is free of charge.  
 
-<img src="https://media.githubusercontent.com/media/Marchev-Science/summer.school.2023/main/img/hija.png" width="100%">
+<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/hija.png" width="100%">
 
 ## Main objectives  
 * Creating an attitude for studying and applying scientific methods in research.  
