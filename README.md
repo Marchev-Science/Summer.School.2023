@@ -104,7 +104,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)  
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/elipse.png" width="100px" align="right">
+<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/elipse.png" width="200px" align="right">
 
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
@@ -123,7 +123,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
 * Boris Kirov  
 * Sergey Vichev
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/round.png" width="100px" align="right">
+<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/round.png" width="200px" align="right">
   
   
 **Archives**:   
