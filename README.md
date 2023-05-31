@@ -2,7 +2,8 @@
 # Summer School on Modeling and Complex Systems '2023
 
 
-**Organized by
+**Organized by**
+
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_feba.png"></th>
