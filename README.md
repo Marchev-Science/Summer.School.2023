@@ -119,12 +119,16 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Petar Nikolov (petarnikolov1989@gmail.com)  
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
 * Boris Kirov  
+* Sergey Vichev
+
 <!--
+
 * Petko Ruskov (petkor@fmi.uni-sofia.bg)  
 * Boyan Markov (boyanmarkov@gmail.com)  
 * Demir Tonchev (tonchev.demir@gmail.com)  
 * Georgi Kirov (geo.kirov@gmail.com)  
 * Pavel Tsankov (p_tsankov@yahoo.fr)    
+
 -->
   
   
