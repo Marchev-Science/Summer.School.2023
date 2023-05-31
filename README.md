@@ -17,20 +17,21 @@
   </tr>
  </table>
 
-<!--
-Partners
+
+**Partners**
+
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/UCB_logo_CMYK.jpg" width="200"></th>
-    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_lendivo.png"></th>
+    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="200"></th>
+    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="200"></th>
   </tr>
   <tr>
-    <td>Unicredit Bulbank<br><a href="https://www.unicreditbulbank.bg/">https://www.unicreditbulbank.bg/</a></td>
-    <td>Lendivo<br><a href="https://lendivo.com/">https://lendivo.com/</a></td>
+    <td></a></td>
+    <td></a></td>
   </tr>
  </table>
 
-  
+<!--  
 Associate Partners
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -46,8 +47,6 @@ Associate Partners
   
 ## Application  
  
-**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
-  
 **Location**: [Educational and sports rehabilitation base Semkovo](https://usob.tu-sofia.bg/index.php/semkovo), Rila Mountain, Bulgaria  
   
 **Time**: July 14 - July 23, 2023   
@@ -192,3 +191,5 @@ before 18:30 Accomodation
 11:00 - 12:00 A word from our partners       
 13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 17:00 - 17:30 Closing ceremony  
+
+**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
