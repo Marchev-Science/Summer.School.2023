@@ -22,12 +22,12 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="200"></th>
-    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="200"></th>
+    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="100"></th>
+    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="100"></th>
   </tr>
   <tr>
-    <td></a></td>
-    <td></a></td>
+    <td>Contact us for inquieries</td>
+    <td>Contact us for inquieries</td>
   </tr>
  </table>
 
