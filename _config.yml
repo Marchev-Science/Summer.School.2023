@@ -9,7 +9,7 @@ github_username:  angel-marchev
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 show_downloads: false
@@ -28,4 +28,4 @@ exclude:
 
 # If you want to use GitHub Pages, remove the "theme" directive above and
 # uncomment the following line:
-# remote_theme: owner/name
+remote_theme: owner/name
