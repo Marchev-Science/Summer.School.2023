@@ -59,7 +59,7 @@ Associate Partners
 Only some applications would be approved, who will be notified by e-mail on June 26 and will recieve further instructions.    
 Participation in the Summer school is free of charge.  
 
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/hija.png" width="100%">
+<img src="https://media.githubusercontent.com/media/Marchev-Science/Summer.School.2023/main/img/hija.png" width="100%">
 
 ## Main objectives  
 * Creating an attitude for studying and applying scientific methods in research.  
@@ -82,7 +82,10 @@ Participation in the Summer school is free of charge.
 After 17:00 working on team assignment"   
 19:00 Dinner   
 "The classroom could be used untill late, but no loud noises permitted.  
-  
+
+**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
+
+
 ## Certification  
 **Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->  
   
@@ -94,7 +97,7 @@ Note: Participants who cannot take part fulltime and/or would not comply with th
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with:  
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/elipse.png" width="200px" align="right">
+<img src="https://media.githubusercontent.com/media/Marchev-Science/Summer.School.2023/main/img/elipse.png" width="200px" align="right">
 * Python 3.9 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 <!--* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)-->  
@@ -110,7 +113,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 
 **Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
 
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/round.png" width="200px" align="right">  
+<img src="https://media.githubusercontent.com/media/Marchev-Science/Summer.School.2023/main/img/round.png" width="200px" align="right">  
 **Lecturers**:  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
@@ -133,7 +136,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/manastir.png" width="100%">
+<img src="https://media.githubusercontent.com/media/Marchev-Science/Summer.School.2023/main/img/manastir.png" width="100%">
 
 
 ## Programme  
@@ -192,4 +195,3 @@ before 18:30 Accomodation
 13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 17:00 - 17:30 Closing ceremony  
 
-**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
