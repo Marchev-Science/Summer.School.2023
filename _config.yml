@@ -1,10 +1,7 @@
 # Site settings
 title: Summer School on modeling and complex systems 2023
 email: angel.marchev@feb.uni-sofia.bg
-description: >- # this means to ignore newlines until "baseurl:"
-Organized by FEBA Faculty of Economics and Business Administration, 
-FDIBA German Engineering and Industrial Management Faculty, 
-University for National and World Economy
+description: Organized by FEBA Faculty of Economics and Business Administration, FDIBA German Engineering and Industrial Management Faculty, University for National and World Economy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marchev-science.github.io/Summer.School.2023/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marchev-games
