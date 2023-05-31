@@ -59,8 +59,8 @@ Associate Partners
 **Application**: <!--**<span style="color: red;">EXTENDED</span>**--> Deadline for student application is June 20, 2023 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
 Only some applications would be approved, who will be notified by e-mail on June 26 and will recieve further instructions.    
 Participation in the Summer school is free of charge.  
-img/Screenshot from 2023-05-31 09-22-59.png
-<img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/UCB_logo_CMYK.jpg" width="100%">
+
+<img src="https://media.githubusercontent.com/media/Marchev-Science/summer.school.2023/main/img/hija.png" width="100%">
 
 ## Main objectives  
 * Creating an attitude for studying and applying scientific methods in research.  
