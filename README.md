@@ -95,6 +95,7 @@ Note: Participants who cannot take part fulltime and/or would not comply with th
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with:  
+<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/elipse.png" width="200px" align="right">
 * Python 3.9 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 <!--* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)-->  
@@ -104,13 +105,13 @@ Apart from concentrating during the classes, the aproved participants should mak
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)  
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/elipse.png" width="200px" align="right">
 
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
 
 **Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
-  
+
+<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/round.png" width="200px" align="right">  
 **Lecturers**:  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
@@ -123,7 +124,6 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
 * Boris Kirov  
 * Sergey Vichev
-<img src="https://github.com/Marchev-Science/Summer.School.2023/blob/main/img/round.png" width="200px" align="right">
   
   
 **Archives**:   
