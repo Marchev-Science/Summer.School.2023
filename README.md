@@ -7,7 +7,7 @@
   <tr>
     <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_feba.png"></th>
     <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_fdiba.png"></th>
-    <th><img src="http://vsim-conf.info/img/speaker1.png" width="100"></th>
+    <th><img src="http://alumnilaw.net/wp-content/uploads/2015/09/logo-unss-963x600.png" width="100"></th>
    </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
