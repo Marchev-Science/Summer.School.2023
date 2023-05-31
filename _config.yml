@@ -1,8 +1,8 @@
 # Site settings
 title: Summer School on modeling and complex systems 2023
-email: angel.marchev@feb.uni-sofia.bg
+# email: angel.marchev@feb.uni-sofia.bg
 description: 14 - 23 July, Semkovo, Rila Mountain
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marchev-science.github.io/Summer.School.2023/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marchev-games
 github_username:  angel-marchev
@@ -10,14 +10,14 @@ github_username:  angel-marchev
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-leap-day
-plugins:
-  - jekyll-feed
-show_downloads: false
+# plugins:
+#  - jekyll-feed
+# show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
+# exclude:
 #  - Gemfile
 #  - Gemfile.lock
 #  - node_modules
