@@ -128,10 +128,18 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Sergey Vichev
   
   
-**Archives**:   
-[Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)  
-[Summer School on Modeling and Complex Systems 2021](https://marchev-science.github.io/summer-school-2021/)  
-[Summer School on Modeling and Complex Systems 2022](https://marchev-science.github.io/summer-school-2022/)  
+**Archives**:
+PhD Workshop (as part of VSIM conference)  
+[ [2015](https://vsim-conf.info/2015/en) ]
+[ [2016](https://vsim-conf.info/2016/en) ]
+[ [2017](https://vsim-conf.info/2017/en) ]  
+Summer School on Research Methods  
+[ [2018](https://drive.google.com/drive/folders/1Jqx1GELDcEky8sj1hPzSyBJeUT8zcJOj) ]
+[ [2019](https://drive.google.com/drive/folders/12N3q7BOulhvLZmIAcfSnvkhLvSVAY9SO) ]
+[ [2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/) ]  
+Summer School on Modeling and Complex Systems  
+[ [2021](https://marchev-science.github.io/summer-school-2021/) ]
+[ [2022](https://marchev-science.github.io/summer-school-2022/) ]  
 
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
