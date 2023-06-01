@@ -114,6 +114,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 **Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
 
 <img src="img/round.png" width="200px" align="right">  
+
 **Lecturers**:  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
@@ -167,18 +168,18 @@ before 18:30 Accomodation
   
 **2023-07-17 Fundamentals**  
 09:30 - 10:30 TBD - Introduction to probability   
-11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/haralampiev/)   
+11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm    
 14:00 - 17:00 Workshop: TBD   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-18 Fundamentals**  
 09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks    
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/haralampiev/)  
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
-09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/efremov/)       
-11:30 - 13:00 Workshop: Alexander Efremov - Approaches for variable selection [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/efremov/)       
+09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization   
+11:30 - 13:00 Workshop: Alexander Efremov - Approaches for variable selection   
 14:00 - 17:00 Workshop: TBD - Advanced ML techniques       
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -188,13 +189,13 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
-09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/kabaivanov/)       
-14:00 - 15:30 Mihail Motzev - Statistical Learning Networks [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/motzev/)     
+09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks   
+14:00 - 15:30 Mihail Motzev - Statistical Learning Networks   
 16:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-22 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/nikolov/)        
+14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
@@ -202,4 +203,3 @@ before 18:30 Accomodation
 11:00 - 12:00 A word from our partners       
 13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 17:00 - 17:30 Closing ceremony  
-
