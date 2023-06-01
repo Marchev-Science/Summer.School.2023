@@ -87,7 +87,7 @@ After 17:00 working on team assignment"
 
 
 ## Certification  
-**Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->  
+**Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. [See information about the cases here...](cases.md)-->  
   
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school in a special cerempny after the end of the Summer school. The requirements are:  
 1) at least 70% active participation in the classes  
@@ -157,13 +157,13 @@ before 18:30 Accomodation
 19:30 - 21:00 Networking exercise  
   
 **2023-07-15 Fundamentals**  
-09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Video Conference)   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/marchev/)    
+09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research   
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling   
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Video Conference)   
-14:00 - 17:00 Workshop: Boris Kirov - Introduction to Prompt engineering for Data analysis [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/boris_kirov/)   
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback  
+14:00 - 17:00 Workshop: Boris Kirov - Introduction to Prompt engineering for Data analysis   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
