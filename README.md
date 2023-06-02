@@ -119,14 +119,13 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
 * Alexander Efremov (aefremov@gmail.com)  
-* Boryana Pelova (bpelova@gmail.com)   
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)  
 * Mihail Motzev (Mihail.Motzev@wallawalla.edu)  
 * Pavel Nikolov (pavelnnikolov@gmail.com)  
 * Petar Nikolov (petarnikolov1989@gmail.com)  
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
-* Boris Kirov  
-* Sergey Vichev
+* Boris Kirov (boris.kirov@tu-sofia.bg)  
+* Sergey Vichev (serjvichev@gmail.com)  
   
   
 **Archives**:  
@@ -199,7 +198,8 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
-09:30 - 10:30 Sergey Vichev - Automation and fine-tunning of a LLM for data science    
-11:00 - 12:00 A word from our partners       
-13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
+09:30 - 10:30 Sergey Vichev - Automation and fine-tunning of a LLM for data science  
+10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
+12:00 - 13:00 A word from our partners       
+14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
 17:00 - 17:30 Closing ceremony  
