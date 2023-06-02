@@ -6,9 +6,9 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_feba.png"></th>
-    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_fdiba.png"></th>
-    <th><img src="https://www.e-dnrs.org/wp-content/uploads/2016/09/cropped-shadow_logo.png" width="100"></th>
+    <th><img src="img/small_logo_feba.png"></th>
+    <th><img src="img/small_logo_fdiba.png"></th>
+    <th><img src="img/small_logo_unwe.png" width="100"></th>
    </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
@@ -22,8 +22,8 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="100"></th>
-    <th><img src="https://www.iconsdb.com/icons/preview/dark-gray/square-xxl.png" width="100"></th>
+    <th><img src="img/square-xxl.png" width="100"></th>
+    <th><img src="img/square-xxl.png" width="100"></th>
   </tr>
   <tr>
     <td>Contact us for inquieries</td>
