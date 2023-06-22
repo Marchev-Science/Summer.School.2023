@@ -26,7 +26,7 @@
     <th><img src="img/square-xxl.png" width="100"></th>
   </tr>
   <tr>
-    <td>Contact us for inquieries</td>
+    <td>KBC Bank</td>
     <td>Contact us for inquieries</td>
   </tr>
  </table>
