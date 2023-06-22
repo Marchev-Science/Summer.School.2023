@@ -120,7 +120,8 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
 * Alexander Efremov (aefremov@gmail.com)  
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)  
-* Mihail Motzev (Mihail.Motzev@wallawalla.edu)  
+* Mihail Motzev (Mihail.Motzev@wallawalla.edu)
+* Martin Minchev (mjminchev@fmi.uni-sofia.bg)     
 * Pavel Nikolov (pavelnnikolov@gmail.com)  
 * Petar Nikolov (petarnikolov1989@gmail.com)  
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
@@ -166,7 +167,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
-09:30 - 10:30 TBD - Introduction to probability   
+09:30 - 10:30 Martin Minchev - Introduction to probability   
 11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm    
 14:00 - 17:00 Workshop: TBD   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
