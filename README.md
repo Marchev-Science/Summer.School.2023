@@ -127,7 +127,9 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
 * Boris Kirov (boris.kirov@tu-sofia.bg)  
 * Sergey Vichev (serjvichev@gmail.com)
-* Deyan Radev (d.radev@feb.uni-sofia.bg)  
+* Boyan Markov (boyanmarkov@gmail.com)   
+* Deyan Radev (d.radev@feb.uni-sofia.bg)
+* Demir Tinchev (tonchev.demir@gmail.com)  
   
   
 **Archives**:  
@@ -181,11 +183,11 @@ before 18:30 Accomodation
 **2023-07-19 Machine Learning concepts**  
 09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization   
 11:30 - 13:00 Alexander Efremov - Approaches for variable selection   
-14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis in R (Online)      
+14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)      
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2023-07-20 Time series**  
-09:30 - 13:00 TBD - Time series basics   
+09:30 - 13:00 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis basics   
 14:00 - 17:00 Peter Nikolov - TBD    
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
