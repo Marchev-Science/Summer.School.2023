@@ -22,12 +22,12 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="img/square-xxl.png" width="100"></th>
-    <th><img src="img/square-xxl.png" width="100"></th>
+    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
+    <th><img src="img/manasievi.jpg" width="200"></th>
   </tr>
   <tr>
     <td>KBC Bank</td>
-    <td>Contact us for inquieries</td>
+    <td>Svetoslav & Emil Manasievi</td>
   </tr>
  </table>
 
@@ -181,8 +181,8 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
-09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization   
-11:30 - 13:00 Alexander Efremov - Approaches for variable selection   
+09:30 - 10:30 Alexander Efremov - Working with imbalanced target data   
+11:00 - 13:00 Alexander Efremov - Approaches for variable selection   
 14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)      
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
