@@ -116,21 +116,23 @@ Apart from concentrating during the classes, the aproved participants should mak
 <img src="img/round.png" width="200px" align="right">  
 
 **Lecturers**:  
+* Alexander Efremov (aefremov@gmail.com)  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
-* Alexander Efremov (aefremov@gmail.com)  
+* Boris Kirov (boris.kirov@tu-sofia.bg)  
+* Boyan Markov (boyanmarkov@gmail.com)   
+* Demir Tonchev (tonchev.demir@gmail.com)   
+* Deyan Radev (d.radev@feb.uni-sofia.bg)
+* Irem Yaman (irem.yaman2@kbc.com)   
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)  
-* Mihail Motzev (Mihail.Motzev@wallawalla.edu)
 * Martin Minchev (mjminchev@fmi.uni-sofia.bg)     
+* Mihail Motzev (Mihail.Motzev@wallawalla.edu)
 * Pavel Nikolov (pavelnnikolov@gmail.com)  
 * Petar Nikolov (petarnikolov1989@gmail.com)  
+* Sergey Vichev (serjvichev@gmail.com)   
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
-* Boris Kirov (boris.kirov@tu-sofia.bg)  
-* Sergey Vichev (serjvichev@gmail.com)
-* Boyan Markov (boyanmarkov@gmail.com)   
-* Deyan Radev (d.radev@feb.uni-sofia.bg)
-* Demir Tinchev (tonchev.demir@gmail.com)  
-  
+
+
   
 **Archives**:  
 PhD Workshop (as part of VSIM conference)  
@@ -205,6 +207,6 @@ before 18:30 Accomodation
 **2023-07-23 Perspectives**  
 09:30 - 10:30 Sergey Vichev - Automation and fine-tunning of a LLM for data science  
 10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
-12:00 - 13:00 A word from our partners       
+12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
 14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
 17:00 - 17:30 Closing ceremony  
