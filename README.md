@@ -190,18 +190,18 @@ before 18:30 Accomodation
 
 **2023-07-20 Time series**  
 09:30 - 13:00 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis basics   
-14:00 - 17:00 Peter Nikolov - TBD    
+14:00 - 17:00 TBD    
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
 09:30 - 11:00 Mihail Motzev - Statistical Learning Networks   
-11:30 - 13:00 TBD   
-14:00 - 17:00 Workshop: Stanimir Kabaivanov - Introduction to Artificial Neural Networks   
+11:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks   
+14:00 - 17:00 Workshop: Peter Nikolov - TBD
 16:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-22 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
+14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
