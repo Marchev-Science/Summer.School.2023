@@ -205,7 +205,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
-09:30 - 10:30 Sergey Vichev - Automation and fine-tunning of a LLM for data science  
+09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL  
 10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
 12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
 14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
