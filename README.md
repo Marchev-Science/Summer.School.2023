@@ -201,7 +201,8 @@ before 18:30 Accomodation
   
 **2023-07-22 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
+14:00 - 15:00 Demir Tonchev - Introduction to reinforced learning    
+15:00 - 17:30 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
