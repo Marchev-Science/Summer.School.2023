@@ -83,7 +83,7 @@ After 17:00 working on team assignment"
 19:00 Dinner   
 "The classroom could be used untill late, but no loud noises permitted.  
 
-**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University***.  
+**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University, contract 80-10-186/17.05.2023***.  
 
 
 ## Certification  
