@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>KBC Bank</td>
-    <td>Svetoslav & Emil Manasievi</td>
+    <td>Svetoslav & Emanuil Manasievi</td>
   </tr>
  </table>
 
@@ -162,12 +162,12 @@ before 18:30 Accomodation
 19:30 - 21:00 Networking exercise  
   
 **2023-07-15 Fundamentals**  
-09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research   
+09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (online)   
 14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling   
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (online)  
 14:00 - 17:00 Workshop: Boris Kirov - Introduction to Prompt engineering for Data analysis   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
@@ -196,7 +196,7 @@ before 18:30 Accomodation
 **2023-07-21 Artificial Neural Networks**  
 09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online)   
 11:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)   
-14:00 - 17:00 Workshop: Peter Nikolov - TBD   
+14:00 - 17:00 Workshop: Peter Nikolov - Quantum Neural Networks   
 16:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-22 Self-organmization & adaptation**  
