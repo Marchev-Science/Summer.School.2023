@@ -111,7 +111,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
 
-**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, and University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
+**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, and University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg, +359888444062  
 
 <img src="img/round.png" width="200px" align="right">  
 
