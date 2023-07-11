@@ -111,14 +111,15 @@ Apart from concentrating during the classes, the aproved participants should mak
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
 
-**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
+**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, and University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg  
 
 <img src="img/round.png" width="200px" align="right">  
 
 **Lecturers**:  
 * Alexander Efremov (aefremov@gmail.com)  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
-* Angel Marchev Sr. (angel_marchev@yahoo.co.uk)  
+* Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
+* Bogomil Filipov (filipov.bogomil@gmail.com)   
 * Boris Kirov (boris.kirov@tu-sofia.bg)  
 * Boyan Markov (boyanmarkov@gmail.com)   
 * Demir Tonchev (tonchev.demir@gmail.com)   
@@ -162,13 +163,13 @@ before 18:30 Accomodation
 19:30 - 21:00 Networking exercise  
   
 **2023-07-15 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (online)   
+09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)   
 14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling   
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (online)  
-14:00 - 17:00 Workshop: Boris Kirov - Introduction to Prompt engineering for Data analysis   
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
+14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
@@ -177,9 +178,9 @@ before 18:30 Accomodation
 14:00 - 17:00 Workshop: Data synthesis / feature engineering - Angel Marchev, Jr.   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
-**2023-07-18 Fundamentals**  
+**2023-07-18 Machine Learning concepts**  
 09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks    
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
@@ -188,9 +189,11 @@ before 18:30 Accomodation
 14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)      
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2023-07-20 Time series**  
-09:30 - 13:00 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis basics   
-14:00 - 17:00 TBD    
+**2023-07-20 Machine Learning concepts**  
+09:30 - 11:00 Kaloyan Haralampiev - Time series analysis basics   
+11:30 - 13:00 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis specifics part I   
+14:00 - 15:30 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis specifics part II   
+15:30 - 17:30 Workshop: Bogomil Filipov - Building application in local environment (Online)    
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
