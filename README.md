@@ -164,7 +164,7 @@ before 18:30 Accomodation
   
 **2023-07-15 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling [materials](/marchev)   
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling [materials](marchev/readme)   
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
