@@ -169,13 +169,14 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online) 
+[video1](https://youtu.be/zyWgyePY3a8) [video2](https://youtu.be/PhOLG7JdMI8)   
 14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
-09:30 - 10:30 Martin Minchev - Introduction to probability   
-11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm    
+09:30 - 11:00 Martin Minchev - Introduction to probability   
+11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm    
 14:00 - 17:00 Workshop: Data synthesis / feature engineering - Angel Marchev, Jr.   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
@@ -192,8 +193,8 @@ before 18:30 Accomodation
 
 **2023-07-20 Machine Learning concepts**  
 09:30 - 11:00 Kaloyan Haralampiev - Time series analysis basics   
-11:30 - 13:00 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis specifics part I   
-14:00 - 15:30 Angel Marchev, Jr., Kaloyan Haralampiev - Time series analysis specifics part II   
+11:30 - 13:00 Kaloyan Haralampiev - Time series case study 1   
+14:00 - 15:30 Angel Marchev, Jr. - Time series case study 2   
 15:30 - 17:30 Workshop: Bogomil Filipov - Building application in local environment (Online)    
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
