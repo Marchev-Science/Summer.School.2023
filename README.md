@@ -192,7 +192,7 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2023-07-20 Machine Learning concepts**  
-09:30 - 11:00 Kaloyan Haralampiev - Time series analysis basics   
+09:30 - 11:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics   
 11:30 - 13:00 Kaloyan Haralampiev - Time series case study 1   
 14:00 - 15:30 Angel Marchev, Jr. - Time series case study 2   
 15:30 - 17:30 Workshop: Bogomil Filipov - Building application in local environment (Online)    
