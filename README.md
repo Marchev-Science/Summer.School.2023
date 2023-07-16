@@ -163,8 +163,9 @@ before 18:30 Accomodation
 19:30 - 21:00 Networking exercise  
   
 **2023-07-15 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling [materials](marchev/readme)   
+09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online) 
+[video1](https://youtu.be/e_wryWsMWoU) [video2](https://youtu.be/YUiE8bRN2xA)   
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling [materials](marchev/readme.md) [video](https://youtu.be/ZBoLs0D8bWw)    
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
@@ -180,7 +181,7 @@ before 18:30 Accomodation
   
 **2023-07-18 Machine Learning concepts**  
 09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks    
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data [materials](haralampiev/readme.md)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
