@@ -1,3 +1,3 @@
 # Materials of Kaloyan Haralampiev
 
-[Employee_data.xlsx](haralampiev/Employee_data.xlsx)   - Data for the Orange workshop   
+[Employee_data.xlsx](Employee_data.xlsx)   - Data for the Orange workshop   
