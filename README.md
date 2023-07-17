@@ -177,7 +177,7 @@ before 18:30 Accomodation
 **2023-07-17 Fundamentals**  
 09:30 - 11:00 Martin Minchev - Introduction to probability [materials](minchev/readme.md) [video](https://youtu.be/A-HITGS1xpI)   
 11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm [materials](haralampiev/readme.md) [video](https://youtu.be/6n0o835hoyA)   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Data synthesis / feature engineering [materials](marchev/readme.md) [video1](https://youtu.be/5Z7p50KmQiA) [video2](https://youtu.be/5Z7p50KmQiA)   
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Data synthesis / feature engineering [materials](marchev/readme.md) [video1](https://youtu.be/5Z7p50KmQiA) [video2](https://youtu.be/mrtbxK_PJac)   
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-18 Machine Learning concepts**  
