@@ -5,5 +5,5 @@
 [MC_dist_fit.ipynb](MC_dist_fit.ipynb) - Monte-carlo simulation & Distribution fitter    
 [cholesky_decomposition.ipynb](cholesky_decomposition.ipynb) - Cholesky decomposition   
 [cholesky-decomp-multiple-case.ipynb](cholesky-decomp-multiple-case.ipynb) - CHolesky decomposition - multiple case   
-[data_synth.ppsx](data_synth.ppsx) - presentation on data synthesis
+[data_synth.ppsx](data_synth.ppsx) - presentation on data synthesis   
 [feature_engineering.slides.html](feature_engineering.slides.html) - presentation on feature engineering  
