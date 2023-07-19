@@ -169,12 +169,12 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [video1](https://youtu.be/e_wryWsMWoU)
     * [video2](https://youtu.be/YUiE8bRN2xA)
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling
     * [materials](marchev/readme.md)
     * [video](https://youtu.be/ZBoLs0D8bWw)
 
-    <a/>  
+<a/>  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
@@ -182,11 +182,11 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [video1](https://youtu.be/zyWgyePY3a8)
     * [video2](https://youtu.be/PhOLG7JdMI8)
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis
     * [materials](kirov/readme.md)
 
-    <a/>  
+<a/>  
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
@@ -194,18 +194,18 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [materials](minchev/readme.md)
     * [video](https://youtu.be/A-HITGS1xpI)
 
-    <a/>  
+<a/>  
   11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm
     * [materials](haralampiev/readme.md)
     * [video](https://youtu.be/6n0o835hoyA)
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Angel Marchev, Jr. - Data synthesis / feature engineering
     * [materials](marchev/readme.md)
     * [video1](https://youtu.be/5Z7p50KmQiA)
     * [video2](https://youtu.be/mrtbxK_PJac)
  
-    <a/>  
+<a/>  
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-18 Machine Learning concepts**  
@@ -214,13 +214,13 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [video1](https://youtu.be/iFOTFci498E)
     * [video2](https://youtu.be/cmedfxv0tAo)
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data
     * [materials](haralampiev/readme.md)
     * [video1](https://youtu.be/_dZga4axVaw)
     * [video2](https://youtu.be/yCRXX32zCMg)
 
-    <a/>  
+<a/>  
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
@@ -228,22 +228,22 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [materials](efremov/readme.md)  
     <!--   * [video]() -->  
 
-    <a/>  
+<a/>  
   10:45 - 11:45 Alexander Efremov - Principle component analysis  
     <!--   * [materials](efremov/readme.md) [video]() -->  
     <!--   * [video]() -->  
 
-    <a/>  
+<a/>  
   12:00 - 13:00 Alexander Efremov - Approaches for variable selection  
     <!--   * [materials](efremov/readme.md) [video]() -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)
     * [materials](radev/readme.md)   
     <!--   * [video]() -->     
 
-    <a/>  
+<a/>  
   17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2023-07-20 Machine Learning concepts**  
@@ -251,27 +251,27 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     <!--   * [materials](haralampiev/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   11:30 - 12:30 Kaloyan Haralampiev - Time series case study 1   
     <!--   * [materials](haralampiev/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   12:30 - 13:30 Angel Marchev, Jr. - Time series case study 2  
     <!--   * [materials](marchev/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   14:30 - 16:00 Workshop: Bogomil Filipov - Building application in local environment (Online)  
     <!--   * [materials](filipov/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   16:15 - 17:30 Angel Marchev, Jr. - Introduction to AI  
     <!--   * [materials](marchev/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
@@ -279,17 +279,17 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     * [materials](motzev/readme.md)   
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   11:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
     <!--   * [materials](kabaivanov/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   14:00 - 17:00 Workshop: Peter Nikolov - Quantum Neural Networks   
     <!--   * [materials](penikolov/readme.md) -->  
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-22 Self-organmization & adaptation**  
@@ -297,17 +297,17 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     <!--   * [video1]() -->  
     <!--   * [video2]() -->   
 
-    <a/>  
+<a/>  
   14:00 - 15:00 Demir Tonchev - Introduction to reinforced learning  
     <!--   * [materials](tonchev/readme.md) --> 
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   15:00 - 17:30 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
     <!--   * [materials](panikolov/readme.md) -->
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   17:30 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
@@ -315,17 +315,17 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
     <!--   * [materials](vichev/readme.md) -->
     <!--   * [video]() -->  
 
-    <a/>  
+<a/>  
   10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
     <!--   * [materials](markov/readme.md) -->
     <!--   * [video]() -->   
 
-    <a/>  
+<a/>  
   12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
   14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
     <!--* case 1: [solution](case-solutions/case1/readme.md) [video]()-->   
     <!--* case 2: [solution](case-solutions/case2/readme.md) [video]()-->  
     <!--* case 3: [solution](case-solutions/case3/readme.md) [video]()-->  
 
-    <a/>  
+<a/>  
   17:00 - 17:30 Closing ceremony  
