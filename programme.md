@@ -4,13 +4,13 @@ The programme is subject to constant change, so make sure to check it regularly.
 You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
 
 
-**2023-07-14 Openning**  
+## **2023-07-14 Openning**  
   before 18:30 Accomodation   
   18:30 - 19:30 Organizational issues  
   19:30 - 21:00 Networking exercise  
 
   
-**2023-07-15 Fundamentals**  
+## **2023-07-15 Fundamentals**  
   09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)  
     * [video1](https://youtu.be/e_wryWsMWoU)  
     * [video2](https://youtu.be/YUiE8bRN2xA)  
@@ -26,7 +26,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 17:00 - 19:30 Workshop: Explaining the cases    
   
 
-**2023-07-16 Fundamentals**  
+## **2023-07-16 Fundamentals**  
   09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
     * [video1](https://youtu.be/zyWgyePY3a8)  
     * [video2](https://youtu.be/PhOLG7JdMI8)  
@@ -41,7 +41,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
-**2023-07-17 Fundamentals**  
+## **2023-07-17 Fundamentals**  
   09:30 - 11:00 Martin Minchev - Introduction to probability  
     * [materials](minchev/readme.md)  
     * [video](https://youtu.be/A-HITGS1xpI)  
@@ -64,7 +64,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
-**2023-07-18 Machine Learning concepts**  
+## **2023-07-18 Machine Learning concepts**  
   09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
     * [materials](efremov/readme.md)  
     * [video1](https://youtu.be/iFOTFci498E)  
@@ -82,7 +82,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
-**2023-07-19 Machine Learning concepts**  
+## **2023-07-19 Machine Learning concepts**  
   09:30 - 10:30 Alexander Efremov - Working with imbalanced target data  
     * [materials](efremov/readme.md)  
     <!--   * [video]() -->  
@@ -110,7 +110,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 
-**2023-07-20 Machine Learning concepts**  
+## **2023-07-20 Machine Learning concepts**  
   09:30 - 11:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics  
     <!--   * [materials](haralampiev/readme.md) -->  
     <!--   * [video]() -->   
@@ -144,7 +144,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:30 - 19:30 Workshop: Teamwork on case assignments  
 
   
-**2023-07-21 Artificial Neural Networks**  
+## **2023-07-21 Artificial Neural Networks**  
   09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online)  
     * [materials](motzev/readme.md)   
     <!--   * [video]() -->   
@@ -166,7 +166,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:00 - 19:30 Workshop: Teamwork on case assignments  
 
   
-**2023-07-22 Self-organmization & adaptation**  
+## **2023-07-22 Self-organmization & adaptation**  
   09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
     <!--   * [video1]() -->  
     <!--   * [video2]() -->   
@@ -188,7 +188,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:30 - 19:30 Workshop: Teamwork on case assignments    
 
   
-**2023-07-23 Perspectives**  
+## **2023-07-23 Perspectives**  
   09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL  
     <!--   * [materials](vichev/readme.md) -->  
     <!--   * [video]() -->  
