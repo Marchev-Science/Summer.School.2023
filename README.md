@@ -96,7 +96,7 @@ After 17:00 working on team assignment"
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
   
 ## Technical requirements  
-Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with:  
+Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
 <img src="img/elipse.png" width="200px" align="right">
 * Python 3.9 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
@@ -105,7 +105,8 @@ Apart from concentrating during the classes, the aproved participants should mak
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)  
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)  
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
-* Registration in Github [https://github.com](https://github.com)  
+* Registration in Github [https://github.com](https://github.com)
+* Registration in ChatGPT [https://chat.openai.com](https://chat.openai.com)
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
 
 ## Contacts  
@@ -215,5 +216,10 @@ before 18:30 Accomodation
 09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL <!-- [materials](vichev/readme.md) [video]() -->  
 10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference <!-- [materials](markov/readme.md) [video]() -->   
 12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
-14:00 - 17:00 Conference - presentation of the solutions to the case assignments <!-- [case1]() [case2]() [case3]() -->   
+14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
+<!--
+* case 1: [solution](case-solutions/case1/readme.md) [video]()   
+* case 2: [solution](case-solutions/case2/readme.md) [video]()  
+* case 3: [solution](case-solutions/case3/readme.md) [video]()  
+-->   
 17:00 - 17:30 Closing ceremony  
