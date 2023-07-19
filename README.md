@@ -181,8 +181,8 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-18 Machine Learning concepts**  
-09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [materials](efremov/readme.md) [video1]() [video2]()   
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data [materials](haralampiev/readme.md) [video1]() [video2]()  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [materials](efremov/readme.md) [video1](https://youtu.be/iFOTFci498E) [video2](https://youtu.be/cmedfxv0tAo)   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data [materials](haralampiev/readme.md) [video1](https://youtu.be/_dZga4axVaw) [video2](https://youtu.be/yCRXX32zCMg)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
