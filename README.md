@@ -217,9 +217,8 @@ before 18:30 Accomodation
 10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference <!-- [materials](markov/readme.md) [video]() -->   
 12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
 14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
-<!--
-* case 1: [solution](case-solutions/case1/readme.md) [video]()   
-* case 2: [solution](case-solutions/case2/readme.md) [video]()  
-* case 3: [solution](case-solutions/case3/readme.md) [video]()  
--->   
+<!--* case 1: [solution](case-solutions/case1/readme.md) [video]()-->   
+<!--* case 2: [solution](case-solutions/case2/readme.md) [video]()-->  
+<!--* case 3: [solution](case-solutions/case3/readme.md) [video]()-->  
+
 17:00 - 17:30 Closing ceremony  
