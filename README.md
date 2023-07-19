@@ -171,7 +171,7 @@ before 18:30 Accomodation
 **2023-07-16 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online) 
 [video1](https://youtu.be/zyWgyePY3a8) [video2](https://youtu.be/PhOLG7JdMI8)   
-14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis   
+14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis [materials](kirov/readme.md)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
@@ -181,38 +181,39 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-18 Machine Learning concepts**  
-09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks    
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data [materials](haralampiev/readme.md)  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [materials](efremov/readme.md) [video1]() [video2]()   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data [materials](haralampiev/readme.md) [video1]() [video2]()  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-19 Machine Learning concepts**  
-09:30 - 10:30 Alexander Efremov - Working with imbalanced target data   
-11:00 - 13:00 Alexander Efremov - Approaches for variable selection   
-14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)      
+09:30 - 10:30 Alexander Efremov - Working with imbalanced target data <!-- [materials](efremov/readme.md) [video]() -->  
+10:45 - 11:45 Alexander Efremov - Principle componenet analysis <!-- [materials](efremov/readme.md) [video]() -->   
+12:00 - 13:00 Alexander Efremov - Approaches for variable selection <!-- [materials](efremov/readme.md) [video]() -->   
+14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online) <!-- [materials](radev/readme.md) [video]() -->     
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2023-07-20 Machine Learning concepts**  
-09:30 - 11:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics   
-11:30 - 13:00 Kaloyan Haralampiev - Time series case study 1   
-14:00 - 15:30 Angel Marchev, Jr. - Time series case study 2   
-15:30 - 17:30 Workshop: Bogomil Filipov - Building application in local environment (Online)    
+09:30 - 11:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics <!-- [materials](haralampiev/readme.md) [video]() -->   
+11:30 - 12:30 Kaloyan Haralampiev - Time series case study 1 <!-- [materials](haralampiev/readme.md) [video]() -->   
+12:30 - 13:30 Angel Marchev, Jr. - Time series case study 2 <!-- [materials](marchev/readme.md) [video]() -->   
+14:30 - 16:00 Workshop: Bogomil Filipov - Building application in local environment (Online) <!-- [materials](filipov/readme.md) [video]() -->   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
-09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online)   
-11:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)   
-14:00 - 17:00 Workshop: Peter Nikolov - Quantum Neural Networks   
+09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online) <!-- [materials](motzev/readme.md) [video]() -->   
+11:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online) <!-- [materials](kabaivanov/readme.md) [video]() -->   
+14:00 - 17:00 Workshop: Peter Nikolov - Quantum Neural Networks <!-- [materials](penikolov/readme.md) [video]() -->   
 16:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-22 Self-organmization & adaptation**  
-09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-14:00 - 15:00 Demir Tonchev - Introduction to reinforced learning    
-15:00 - 17:30 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization    
+09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization <!-- [video1]() [video2]() -->   
+14:00 - 15:00 Demir Tonchev - Introduction to reinforced learning <!-- [materials](tonchev/readme.md) [video]() -->   
+15:00 - 17:30 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization <!-- [materials](panikolov/readme.md) [video]() -->   
 17:00 - 19:30 Workshop: Teamwork on case assignments    
   
 **2023-07-23 Perspectives**  
-09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL  
-10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
+09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL <!-- [materials](vichev/readme.md) [video]() -->  
+10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference <!-- [materials](markov/readme.md) [video]() -->   
 12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank       
-14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
+14:00 - 17:00 Conference - presentation of the solutions to the case assignments <!-- [case1]() [case2]() [case3]() -->   
 17:00 - 17:30 Closing ceremony  
