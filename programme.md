@@ -90,13 +90,13 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 <a/>  
 
   10:45 - 11:45 Alexander Efremov - Principle component analysis  
-    <!--   * [materials](efremov/readme.md) [video]() -->  
+    * [materials](efremov/readme.md) [video]() -->  
     <!--   * [video]() -->  
 
 <a/>  
 
   12:00 - 13:00 Alexander Efremov - Approaches for variable selection  
-    <!--   * [materials](efremov/readme.md) [video]() -->  
+    * [materials](efremov/readme.md) [video]() -->  
     <!--   * [video]() -->   
 
 <a/>  
