@@ -71,6 +71,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
     * [video2](https://youtu.be/cmedfxv0tAo)  
 
 <a/>  
+
   14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
     * [materials](haralampiev/readme.md)  
     * [video1](https://youtu.be/_dZga4axVaw)  
