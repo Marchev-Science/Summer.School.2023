@@ -16,11 +16,13 @@ The programme is subject to constant change, so make sure to check it regularly.
     * [video2](https://youtu.be/YUiE8bRN2xA)  
   
 <a/>  
+
   14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling  
     * [materials](marchev/readme.md)  
     * [video](https://youtu.be/ZBoLs0D8bWw)  
   
 <a/>  
+
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
