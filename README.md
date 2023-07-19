@@ -165,7 +165,7 @@ before 18:30 Accomodation
 19:30 - 21:00 Networking exercise  
   
 **2023-07-15 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)  
+09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)
   * [video1](https://youtu.be/e_wryWsMWoU)
   * [video2](https://youtu.be/YUiE8bRN2xA)
 <a/>
@@ -176,7 +176,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2023-07-16 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)
   * [video1](https://youtu.be/zyWgyePY3a8)
   * [video2](https://youtu.be/PhOLG7JdMI8)
 <a/>
@@ -186,7 +186,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-17 Fundamentals**  
-09:30 - 11:00 Martin Minchev - Introduction to probability  
+09:30 - 11:00 Martin Minchev - Introduction to probability
   * [materials](minchev/readme.md)
   * [video](https://youtu.be/A-HITGS1xpI)
 <a/>
@@ -219,7 +219,7 @@ before 18:30 Accomodation
 <!--   * [materials](efremov/readme.md) [video]() -->  
 <!--   * [video]() -->  
 <a/>
-10:45 - 11:45 Alexander Efremov - Principle componenet analysis  
+10:45 - 11:45 Alexander Efremov - Principle component analysis  
 <!--   * [materials](efremov/readme.md) [video]() -->  
 <!--   * [video]() -->  
 <a/>
@@ -227,7 +227,7 @@ before 18:30 Accomodation
 <!--   * [materials](efremov/readme.md) [video]() -->  
 <!--   * [video]() -->   
 <a/>
-14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)  
+14:00 - 17:00 Workshop: Deyan Radev - Regression Analysis with panel data in R (Online)
 * [materials](radev/readme.md)   
 <!--   * [video]() -->     
 <a/>
@@ -257,7 +257,7 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 **2023-07-21 Artificial Neural Networks**  
-09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online)  
+09:30 - 11:00 Mihail Motzev - Statistical Learning Networks (Online)
 * [materials](motzev/readme.md)   
 <!--   * [video]() -->   
 <a/>
