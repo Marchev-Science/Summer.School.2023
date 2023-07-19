@@ -1,7 +1,7 @@
 # Programme  
 
-The programme is subject to constant change, so make sure to check it regularly. The programme is available [here...](programme.md)  
-[video playlist](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
+The programme is subject to constant change, so make sure to check it regularly.  
+You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
 
 
 **2023-07-14 Openning**  
