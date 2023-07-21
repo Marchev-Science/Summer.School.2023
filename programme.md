@@ -1,6 +1,6 @@
 # Programme  
 
-The programme is subject to constant change, so make sure to check it regularly.  
+The programme is subject to constant change, so make sure to check it regularly. All supporting materials and recorded videos are linked in the classes.  
 You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
 
 
