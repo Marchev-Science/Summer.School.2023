@@ -154,7 +154,7 @@ Summer School on Modeling and Complex Systems
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="img/manastir.png" width="100%">
+<img src="img/summer-school-2023.jpg" width="100%">
 
 
 ## Programme  
