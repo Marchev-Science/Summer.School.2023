@@ -167,7 +167,7 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   17:00 - 19:30 Workshop: Teamwork on case assignments  
 
   
-## **2023-07-22 Self-organmization & adaptation**  
+## **2023-07-22 Self-organization & adaptation**  
   09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
     * [video1]()   
     * [video2]()    
