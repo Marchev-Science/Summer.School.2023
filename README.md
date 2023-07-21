@@ -158,5 +158,4 @@ The cases for this year's Summer school are [revieled here...](cases.md) at the 
 
 
 ## Programme  
-The programme is subject to constant change, so make sure to check it regularly. The programme is available [here...](programme.md)  
-[video playlist](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
+The programme is subject to constant change, so make sure to check it regularly. The programme is available [here...](programme.md) All supporting materials and recorded videos are linked in the classes. 
