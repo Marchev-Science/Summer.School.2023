@@ -15,6 +15,7 @@
 ## Orange workshop  
 [Employee_data.xlsx](Employee_data.xlsx) - Data for the Orange workshop   
 [Summer_school_2023.ows](Summer_school_2023.ows) - Orange canvas from the workshop   
+[link...](https://stackoverflow.com/questions/45598627/orange-save-model-in-python-script) - how to export/import orange models to/from python
 
 ## Time series analysis  
 [Time series analysis.pdf](Time_series_analysis.pdf) - Lecture presentation on time series analysis (PDF)   
