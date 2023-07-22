@@ -148,19 +148,19 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 ## **2023-07-21 Artificial Neural Networks**  
   09:30 - 11:30 Mihail Motzev - Statistical Learning Networks (Online)  
     * [materials](motzev/readme.md)   
-    * [video]()    
+    * [video](https://youtu.be/znjUMbSI2F4)    
 
 <a/>  
 
   12:00 - 13:30 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
     * [materials](kabaivanov/readme.md)   
-    * [video]()    
+    * [video](https://youtu.be/8fXY-F6gtbw)    
 
 <a/>  
 
   14:30 - 17:00 Workshop: Peter Nikolov - Quantum Neural Networks   
     * [materials](penikolov/readme.md)   
-    * [video]()    
+    * [video](https://youtu.be/VWfRS9_x8C8)    
 
 <a/>  
 
