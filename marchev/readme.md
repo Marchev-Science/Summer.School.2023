@@ -15,5 +15,6 @@
 [feature_engineering.slides.html](feature_engineering.slides.html) - presentation on feature engineering   
 
 ## Time series
+[sarimax-text.pdf](sarimax-text.pdf) - paper on the time series case by Angel Marchev, Jr.
 
 ## Introduction to AI
