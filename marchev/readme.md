@@ -18,3 +18,4 @@
 [sarimax-text.pdf](sarimax-text.pdf) - paper on the time series case by Angel Marchev, Jr.
 
 ## Introduction to AI
+[intro-to-AI.pdf](intro-to-AI.pdf) - presentation from the lecture  
