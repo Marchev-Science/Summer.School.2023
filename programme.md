@@ -169,20 +169,20 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
   
 ## **2023-07-22 Self-organization & adaptation**  
   09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-    * [video1]()   
-    * [video2]()    
+    * [video1](https://youtu.be/3z6xdu1KLOs)   
+    * [video2](https://youtu.be/uPnS7FLLoS0)    
 
 <a/>  
 
   14:00 - 15:00 Demir Tonchev - Introduction to reinforced learning  
     * [materials](tonchev/readme.md)  
-    * [video]()    
+    * [video](https://youtu.be/Ve59lMzvHa8)    
 
 <a/>  
 
   15:00 - 17:30 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
     * [materials](panikolov/readme.md)   
-    * [video]()    
+    * [video](https://youtu.be/dkWYyoUefOg)    
 
 <a/>  
 
@@ -192,22 +192,24 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 ## **2023-07-23 Perspectives**  
   09:30 - 10:30 Sergey Vichev - Reasonning capabilities of LLMs using text-to-SQL  
     * [materials](vichev/readme.md)   
-    * [video]()   
+    * [video](https://youtu.be/CbWtjCxMMDo)   
 
 <a/>  
 
   10:30 - 11:30 Boyan Markov - Empirical approach of studying individual risk preference  
     * [materials](markov/readme.md)   
-    * [video]()    
+    * [video](https://youtu.be/0uOPwf_TcjA)    
 
 <a/>  
 
   12:00 - 13:00 A word from our partners: Irem Yaman, KBC Bank  
+* [video](https://youtu.be/be62frWEyNQ)    
 
+<a/>  
   14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
-    * case 1: [solution](case-solutions/case1/readme.md) [video]()   
-    * case 2: [solution](case-solutions/case2/readme.md) [video]()  
-    * case 3: [solution](case-solutions/case3/readme.md) [video]()  
+    * case 1: [solution](case-solutions/case1/readme.md) [video](https://youtu.be/OIzaDL3l1tg)   
+    * case 2: [solution](case-solutions/case2/readme.md) [video](https://youtu.be/tHxHqEBUftY)  
+    * case 3: [solution](case-solutions/case3/readme.md) [video](https://youtu.be/ejD8rhRcRxY)  
 
 <a/>  
 
