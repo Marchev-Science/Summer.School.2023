@@ -111,6 +111,9 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Registration in ChatGPT [https://chat.openai.com](https://chat.openai.com)
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
 
+## Preliminary readings  
+All students should make sure to prepare [these materials in advance...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDarUc8m0E37Uv5e64w8FtA)   
+
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
 
