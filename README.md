@@ -59,7 +59,7 @@ Associate Partners
 Only some applications would be approved, who will be notified by e-mail on June 26 and will recieve further instructions.    
 Participation in the Summer school is free of charge.  
 
-<img src="img/hija.png" width="100%">
+<img src="img/summer-school-2023-1.jpg" width="100%">
 
 ## Main objectives  
 * Creating an attitude for studying and applying scientific methods in research.  
@@ -94,6 +94,8 @@ After 17:00 working on team assignment"
 2) participation in a team with a presented solution of case at the end  
 3) Presented paper at a conference or seminar, showcasing knowledge and skills educated throughout the Summer school.  
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
+  
+<img src="img/summer-school-2023-2.jpg" width="100%">  
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
