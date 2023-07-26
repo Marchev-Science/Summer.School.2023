@@ -206,10 +206,10 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 * [video](https://youtu.be/be62frWEyNQ)    
 
 <a/>  
-  14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
-    * case 1: [solution](case-solutions/case1/readme.md) [video](https://youtu.be/OIzaDL3l1tg)   
-    * case 2: [solution](case-solutions/case2/readme.md) [video](https://youtu.be/tHxHqEBUftY)  
-    * case 3: [solution](case-solutions/case3/readme.md) [video](https://youtu.be/ejD8rhRcRxY)  
+  14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
+    * case 1: [[solution](cases-solutions/case1/readme.md)] [[video](https://youtu.be/OIzaDL3l1tg)]   
+    * case 2: [[solution](cases-solutions/case2/readme.md)] [[video](https://youtu.be/tHxHqEBUftY)]  
+    * case 3: [[solution](cases-solutions/case3/readme.md)] [[video](https://youtu.be/ejD8rhRcRxY)]  
 
 <a/>  
 
