@@ -16,11 +16,11 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 [Case text and data...](https://github.com/Marchev-Science/case-heart-rate-variability) => [Case solution](cases-solutions/case1/readme.md)   
 
-### 1. Predicting Bus Arrival Times Using Public Transportation and Weather Data.  
+### 2. Predicting Bus Arrival Times Using Public Transportation and Weather Data.  
 
 [Case text and data...](https://github.com/Marchev-Science/case-public-transport-prediction) => [Case solution](cases-solutions/case2/readme.md)   
 
-### 1. Cold start modeling.     
+### 3. Cold start modeling.     
 
 [Case text and data...](https://github.com/Marchev-Science/case-cold-start-modeling) => [Case solution](cases-solutions/case3/readme.md)   
 
