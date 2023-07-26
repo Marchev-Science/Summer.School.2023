@@ -19,3 +19,6 @@
 
 ## Introduction to AI
 [intro-to-AI.pdf](intro-to-AI.pdf) - presentation from the lecture  
+
+## Self-organization and adaptivity  
+[0_portfolio_monografia.pdf](0_portfolio_monografia.pdf) - Angel Marchev, Jr. Dissertation
