@@ -1,5 +1,5 @@
-## Case: Classifying and Analyzing Physical Activities through Heart Rate Variability and Other Physical Metrics Using Holter Monitor Data. 
+## Case 1 Solution 
 
-[HRV.html](HRV.html) - presentation 1/2  
-[Clustering.html](Clustering.html) - presentation 2/2  
-[HRV.ipynb](HRV.ipynb) - code  
+[HRV.html](HRV.html) - Data exploration (html iPython code)  
+[Clustering.html](Clustering.html) - Clustering and prediction (html iPython code)  
+[HRV.ipynb](HRV.ipynb) - code (iPython code) 
